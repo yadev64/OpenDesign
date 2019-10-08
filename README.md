@@ -31,4 +31,4 @@ NOTE: Once you've completed a project please include the source files!
 [Design Needed, Developer Needed, Question, Staff Support Needed]
 ```
 
-Note: Because of the way permissions work on this repo, if you can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you. 
+Note: Because of the chumma oru pull request ou can't add a label yourself indicate the label you want added in the body of the issue and someone will add it for you. 
